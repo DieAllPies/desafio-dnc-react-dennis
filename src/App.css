@@ -107,6 +107,9 @@
 }
 
 .project-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* ensures space between content and button */
   max-width: 550px;
   max-height: 700px;
   border-top-left-radius: 2rem;

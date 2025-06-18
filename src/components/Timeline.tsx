@@ -24,7 +24,7 @@ export function Timeline() {
 
 
   return (
-    <section className="timeline-section">
+    <section id="timeline" className="timeline-section">
       <h2 className="timeline-title">Sobre mim</h2>
 
       <div className="timeline-container">

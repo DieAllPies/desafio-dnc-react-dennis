@@ -7,11 +7,12 @@ export function Header() {
     <header className="header">
       {/* Center nav */}
       <nav className="header-center">
-        <ul className="nav-list">
-          <li><a href="#projetos">Projetos</a></li>
-          <li><a href="#tecnologias">Tecnologias</a></li>
-          <li><a href="#sobre">Sobre mim</a></li>
-        </ul>
+      <ul className="nav-list">
+        <li><a href="#projetos">Projetos</a></li>
+        <li><a href="#tecnologias">Tecnologias</a></li>
+        <li><a href="#timeline">Sobre mim</a></li>
+      </ul>
+
       </nav>
 
       {/* Social links aligned right */}
