@@ -2,7 +2,7 @@ English above. Português abaixo.
 
 # Professional Portfolio with React Hooks
 
-This project was developed as part of the DNC challenge: Build a portfolio using React and Hooks.
+This project was developed as part of the DNC challenge: Build a portfolio using React and Hooks. The page was developed following a 1920px wide figma model.
 
 ## Template
 
@@ -32,7 +32,7 @@ The star count is displayed on each individual project card and was added to sat
 
 # Portfólio Profissional com React Hooks
 
-Este projeto foi desenvolvido como parte do desafio da DNC: Desenvolva um portfólio utilizando React e Hooks.
+Este projeto foi desenvolvido como parte do desafio da DNC: Desenvolva um portfólio utilizando React e Hooks. A página foi desenvolvida seguindo um modelo do figma de 1920px de largura.
 
 ## Template
 
